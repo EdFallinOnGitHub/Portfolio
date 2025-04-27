@@ -7,6 +7,7 @@ I'm always happy to talk about what these projects are about and how they demons
 > All repositories here are portfolio-facing copies, rather than the originals.
 
 
+
 ## Choose a technology
 
 I've worked in other mixes of technologies, but these two categories cover the ones I've included here.
@@ -24,17 +25,18 @@ I've worked in other mixes of technologies, but these two categories cover the o
   - [Rewriter](#rewriter)
 
 
+
 ## Risei
 
 **Risei** is a declarative testing framework for JavaScript that is robust, rich in features, and is itself well-tested.&nbsp;  It's a published **npm** package with an extensive read-me and its own descriptive website.&nbsp;  Please check it out!
-
-_[Back to top](#choose-a-technology)_
 
 - **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/risei](https://github.com/EdFallinOnGitHub/risei)
 
 - **Npm package site:**&nbsp;  [https://npmjs.com/package/risei](https://npmjs.com/package/risei)
 
 - **Full descriptive website:**&nbsp;  [https://deusware.com/risei/](https://deusware.com/risei/)
+
+_[Back to top](#choose-a-technology)_
 
 
 > ### Screenshots
@@ -47,13 +49,15 @@ _[Back to top](#choose-a-technology)_
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Output-example.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Output-example.png)
 
 
+
 ## QuickBoard
 
 **QuickBoard** is a Windows tool that saves reusable texts in small files, with each blurb of text copied to the clipboard with a single click, along with many powerful related features.&nbsp;  I use it every day when I'm working in Windows.
 
+- **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/QuickBoard](https://github.com/EdFallinOnGitHub/QuickBoard)
+
 _[Back to top](#choose-a-technology)_
 
-- **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/QuickBoard](https://github.com/EdFallinOnGitHub/QuickBoard)
 
 > ### Screenshots
 > These are two .board files open in QuickBoard...
@@ -65,13 +69,15 @@ _[Back to top](#choose-a-technology)_
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/QuickBoard-context-menu.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/QuickBoard-context-menu.png)
 
 
+
 ## Rewriter
 
 **Rewriter** is a Windows tool to rewrite the contents of a file with a series of regular expressions.&nbsp;  It's very useful for widespread changes to code or other text-based material.&nbsp;  Both the file to change and the list of regular expressions can be dragged and dropped onto the UI.
 
+- **Repo:**&nbsp; [https://github.com/EdFallinOnGitHub/Rewriter](https://github.com/EdFallinOnGitHub/Rewriter)
+
 _[Back to top](#choose-a-technology)_
 
-- **Repo:**&nbsp; [https://github.com/EdFallinOnGitHub/Rewriter](https://github.com/EdFallinOnGitHub/Rewriter)
 
 > ### Screenshot
 > Here is the UI of Rewriter with a file to change and the regular expressions list already dropped on and ready to use.
@@ -84,9 +90,9 @@ _[Back to top](#choose-a-technology)_
 
 ### ___Coming soon!___
 
-_[Back to top](#choose-a-technology)_
-
 I have written many personal apps and tools with native web technologies, but they aren't ready to link here yet.&nbsp;  They will appear here later.
+
+_[Back to top](#choose-a-technology)_
 
 
 
@@ -94,9 +100,9 @@ I have written many personal apps and tools with native web technologies, but th
 
 ### ___Coming soon!___
 
-_[Back to top](#choose-a-technology)_
-
 I worked for a while with React, and created some pretty nice components and features using them, but they were proprietary code, so I don't have copies of them to show, or even screenshots.&nbsp;  Personal projects demonstrating my skills will appear here later.
+
+_[Back to top](#choose-a-technology)_
 
 
 
@@ -104,9 +110,10 @@ I worked for a while with React, and created some pretty nice components and fea
 
 ### ___Coming soon!___
 
+I worked for a little while with Angular, as well as making some personal projects with it.&nbsp;  All of it looked and worked great.&nbsp;  But they aren't ready to link yet.&nbsp;  Personal projects in Angular demonstrating my skills will appear here later.
+
 _[Back to top](#choose-a-technology)_
 
-I worked for a little while with Angular, as well as making some personal projects with it.&nbsp;  All of it looked and worked great.&nbsp;  But they aren't ready to link yet.&nbsp;  Personal projects in Angular demonstrating my skills will appear here later.
 
 
 
