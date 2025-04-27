@@ -21,11 +21,11 @@ I'm always happy to talk about what these projects are about and how they demons
 > ### Screenshots
 > These are examples of the easy test syntax you use with Risei...
 >
-> ![https://github.com/EdFallinOnGitHub/Portfolio/images/Syntax-example.png](https://github.com/EdFallinOnGitHub/Portfolio/images/Syntax-example.png)
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Syntax-example.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Syntax-example.png)
 >
 > ... And the clear output it gives you about test results.
 >
-> ![https://github.com/EdFallinOnGitHub/Portfolio/images/Output-example.png](https://github.com/EdFallinOnGitHub/Portfolio/images/Output-example.png)
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Output-example.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Output-example.png)
 
 
 ## QuickBoard
@@ -37,11 +37,11 @@ I'm always happy to talk about what these projects are about and how they demons
 > ### Screenshots
 > These are two .board files open in QuickBoard...
 >
-> ![https://github.com/EdFallinOnGitHub/Portfolio/images/QuickBoard-files.png](https://github.com/EdFallinOnGitHub/Portfolio/images/QuickBoard-files.png)
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/QuickBoard-files.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/QuickBoard-files.png)
 >
 > ... And here is one of the right-click context menus, showing the some of the wealth of options available.
 >
-> ![https://github.com/EdFallinOnGitHub/Portfolio/images/QuickBoard-context-menu.png](https://github.com/EdFallinOnGitHub/Portfolio/images/QuickBoard-context-menu.png)
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/QuickBoard-context-menu.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/QuickBoard-context-menu.png)
 
 
 ## Rewriter
@@ -53,7 +53,7 @@ I'm always happy to talk about what these projects are about and how they demons
 > ### Screenshot
 > Here is the UI of Rewriter with a file to change and the regular expressions list already dropped on and ready to use.
 >
-> ![https://github.com/EdFallinOnGitHub/Portfolio/images/Rewriter-user-interface.png](https://github.com/EdFallinOnGitHub/Portfolio/images/Rewriter-user-interface.png)
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Rewriter-user-interface.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/Rewriter-user-interface.png)
 
 
 
