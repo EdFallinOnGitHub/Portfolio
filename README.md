@@ -7,6 +7,23 @@ I'm always happy to talk about what these projects are about and how they demons
 > All repositories here are portfolio-facing copies, rather than the originals.
 
 
+## Choose a technology / stack
+
+I've worked in other mixes of technologies, but these two categories cover the ones I've included here.
+
+- NodeJs / Web
+
+  - [Risei](#risei)
+  - [Native web technologies (coming soon)](#native-web-technologies-html-css-js)
+  - [React (coming soon)](#react)
+  - [Angular (coming soon)](#angular)
+
+- .NET / Windows
+
+  - [QuickBoard](#quickboard)
+  - [Rewriter](#rewriter)
+
+
 ## Risei
 
 **Risei** is a declarative testing framework for JavaScript that is robust, rich in features, and is itself well-tested.&nbsp;  It's a published **npm** package with an extensive read-me and its own descriptive website.&nbsp;  Please check it out!
