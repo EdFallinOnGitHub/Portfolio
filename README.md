@@ -49,7 +49,7 @@ I've worked in other mixes of technologies, but these two categories cover the o
 ## QuickBoard
 - _[Back](#choose-a-technology)_
 
-**QuickBoard** is a tool for use in Windows that saves reusable texts in small files, with each blurb of text copied to the clipboard with a single click, along with many powerful related features.&nbsp;  I use it every day when I'm working in Windows.
+**QuickBoard** is a Windows tool that saves reusable texts in small files, with each blurb of text copied to the clipboard with a single click, along with many powerful related features.&nbsp;  I use it every day when I'm working in Windows.
 
 - **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/QuickBoard](https://github.com/EdFallinOnGitHub/QuickBoard)
 
@@ -66,7 +66,7 @@ I've worked in other mixes of technologies, but these two categories cover the o
 ## Rewriter
 - _[Back](#choose-a-technology)_
 
-**Rewriter** is a tool that allows you to rewrite the contents of a file with a series of regular expressions.&nbsp;  It's very useful for well-planned transformations of code or other text-based material, or for turning shortcut syntax into full-form contents.&nbsp;  Both the file to change and the list of regular expressions can be dragged and dropped onto the UI.
+**Rewriter** is a Windows tool to rewrite the contents of a file with a series of regular expressions.&nbsp;  It's very useful for widespread changes to code or other text-based material.&nbsp;  Both the file to change and the list of regular expressions can be dragged and dropped onto the UI.
 
 - **Repo:**&nbsp; [https://github.com/EdFallinOnGitHub/Rewriter](https://github.com/EdFallinOnGitHub/Rewriter)
 
