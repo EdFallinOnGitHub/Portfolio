@@ -15,10 +15,10 @@ I've worked in other mixes of technologies, but the two categories here cover th
 - NodeJs / Web
 
   - [Risei](#risei)
-  - [Native web technologies](#native-web-technologies-html-css-js)
+  - HTML, CSS, JS
     - [JobWave](#jobwave)
-  - [React (coming soon)](#react)
-  - [Angular (coming soon)](#angular)
+  - React [(coming soon)](#react)
+  - Angular [(coming soon)](#angular)
 
 - .NET / Windows
 
@@ -87,22 +87,26 @@ _[Back to top](#choose-a-technology)_
 
 
 
-## Native Web Technologies (HTML, CSS, JS)
+## JobWave
 
-I have written many personal apps and tools with native web technologies.&nbsp;  For now, just one of them is listed here.
+I have written many personal apps and tools with native web technologies (HTML, CSS, and JavaScript).&nbsp;  For now, just one of them is listed here: **JobWave**.
 
 _[Back to top](#choose-a-technology)_
 
 
 ### JobWave
 
-**JobWave** is a tool website that I use to track jobs I have looked at online.&nbsp;  With it, I can transfer job listings from boards / websites, search for them among cached listings, sort and cache them, and copy them to the clipboard for long-term storage elsewhere.
+**JobWave** is a tool website that I use to track jobs I have looked at online.&nbsp;  With it, I can transfer and transform job listings from other sites, search for them among cached listings, sort and cache them, and copy them to the clipboard for use elsewhere.&nbsp;  JobWave only keeps things in the browser's local storage.
 
-> The version here is written in a procedural style, with all code in one JS file.&nbsp;  That was an expedient to make the tool usable on short notice.&nbsp;  Now I'm refactoring it and putting it under test &mdash; not yet included here.
+> The version here was written in a procedural style, with all code in one JS file.&nbsp;  That was an expedient to make the tool usable on short notice.&nbsp;  Now I'm refactoring it and putting it under test.&nbsp;  The tests are easy and fast to write because I use my declarative testing framework, [Risei](#risei).&nbsp;  Only a little of this overhaul is present here so far.
+> 
+> I serve this page for myself from a Linux VM that I maintain in the cloud, using an NGINX reverse proxy and a custom domain I set up with a DNS registrar.&nbsp;  It is one of several sites I host for myself this way, including the extended read-me site for Risei.
 
 _[Back to top](#choose-a-technology)_
 
 - **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/JobWave](https://github.com/EdFallinOnGitHub/JobWave)
+
+- **Hosted site:**&nbsp;  [https://deusware.com/jobwave/](https://deusware.com/jobwave/)
 
 > ### Screenshots
 > Here is the UI of Rewriter with a job listing transformed at the top (using the middle right-arrow button).&nbsp;  I can't claim the styling is gorgeous, but it's clear and distinguishes things clearly.
