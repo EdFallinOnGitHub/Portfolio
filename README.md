@@ -113,11 +113,11 @@ _[Back to top](#choose-a-technology)_
 >
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-flash.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-flash.png)
 >
-> And here is the result when the job listing at the top has been found among the cached listings (after a flash).&nbsp;  You don't want to find a listing, so the result and flash are gold.&nbsp;  Again, this _is_ gorgeous.
+> And here is the result when the job listing at the top has been found among the cached listings (seen after a flash).&nbsp;  I want all listings to be unique, so the result and flash are gold / yellow to indicate it's undesirable.&nbsp;  Again, this _is_ gorgeous.
 >
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-found.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-found.png)
 >
-> And if I want to make the browser window narrow, JobWave continues to be usable and look as good because I made it using responsive design.
+> And if I decide to make the browser window narrower, JobWave continues to be usable and look as good, because I made it using responsive design.
 >
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design.png)
 
