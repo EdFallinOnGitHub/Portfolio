@@ -137,7 +137,7 @@ _[Back to top](#choose-a-technology)_
 
 ### ___Coming soon!___
 
-I worked for a little while with Angular, as well as making some personal projects with it.&nbsp;  All of it looked and worked great.&nbsp;  However, those projects not finished enough to link.&nbsp;  Personal projects demonstrating my Angular skills will appear here later.
+I worked for a little while with Angular, as well as making some personal projects with it.&nbsp;  All of it looked and worked great.&nbsp;  However, those projects were not finished enough to link.&nbsp;  Personal projects demonstrating my Angular skills will appear here later.
 
 _[Back to top](#choose-a-technology)_
 
