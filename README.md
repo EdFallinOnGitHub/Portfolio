@@ -14,7 +14,8 @@ I've worked in other mixes of technologies, but the two categories here cover th
 
 - NodeJs / Web
 
-  - NodeJs [Risei](#risei)
+  - NodeJs
+    - [Risei](#risei)
   - HTML, CSS, JS
     - [JobWave](#jobwave)
   - React [(coming soon)](#react)
