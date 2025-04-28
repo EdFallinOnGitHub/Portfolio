@@ -10,7 +10,7 @@ I'm always happy to talk about these projects and how they demonstrate my skills
 
 ## Choose a technology
 
-I've worked in other mixes of technologies, but the two categories here cover the ones I've included in this portfolio.
+I've worked in a variety of technology mixes, but the two categories here cover the ones I've included in this portfolio.
 
 - NodeJs / Web
 
