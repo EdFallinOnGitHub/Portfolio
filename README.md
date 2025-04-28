@@ -119,7 +119,7 @@ _[Back to top](#choose-a-technology)_
 >
 > And if I want to make the browser window narrow, JobWave continues to be usable and look as good because I made it using responsive design.
 >
-> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design)
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design.png)
 
 
 
