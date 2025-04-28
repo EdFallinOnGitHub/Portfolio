@@ -4,7 +4,7 @@ Hi there, thanks for checking out my portfolio!&nbsp;  Please take a look here a
 
 I'm always happy to talk about these projects and how they demonstrate my skills, drive, and interests.&nbsp;  I hope you like them!
 
-> All repositories here are portfolio-facing copies.&nbsp;  Their age varies greatly, up to about eight years.
+> All repositories here are portfolio-facing copies.&nbsp;  Their age varies greatly, from today up to about eight years.
 
 
 
