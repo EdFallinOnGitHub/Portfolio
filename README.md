@@ -30,9 +30,9 @@ I've worked in a variety of technology mixes, but the two categories here cover 
 
 ## Risei
 
-**Risei** is a declarative testing framework for JavaScript that is rich in features, robust, and is itself well-tested.&nbsp;  It's a published **npm** package with an extensive read-me and its own, even more descriptive website.&nbsp;  It's one of many apps and tools I have written using **NodeJs**.
+**Risei** is a declarative testing framework for JavaScript that is rich in features, robust, and is itself well-tested.&nbsp;  It's a published **npm** package with an extensive read-me and its own, even more descriptive website.&nbsp;  It's one of many **NodeJs** apps and tools I have written.
 
-Risei makes it easy to write unit tests, because for most tests, all you have to do is provide the inputs, outputs, and a description in an object.&nbsp;  It runs in the terminal with NodeJs.&nbsp;  I use it all the time (see [JobWave](#jobwave)).&nbsp;  Check it out!
+Risei makes it easy to write unit tests, because for most tests, all you have to do is provide the inputs, outputs, and a description in an object.&nbsp;  It runs in the terminal.&nbsp;  I use it all the time (see [JobWave](#jobwave)).&nbsp;  Check it out!
 
 - **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/risei](https://github.com/EdFallinOnGitHub/risei)
 
@@ -76,7 +76,7 @@ _[Back to top](#choose-a-technology)_
 
 ## Rewriter
 
-**Rewriter** is a Windows tool to rewrite the contents of a file with a series of regular expressions.&nbsp;  It's very useful for widespread changes to code or other text-based material.&nbsp;  Both the file to change and the list of regular expressions can be dragged and dropped onto the UI.
+**Rewriter** is a Windows tool for rewriting the contents of a file using a series of regular expressions.&nbsp;  It's very useful for widespread changes to code or other text-based material.&nbsp;  Both the file to change and the list of regular expressions can be dragged and dropped onto the UI.
 
 - **Repo:**&nbsp; [https://github.com/EdFallinOnGitHub/Rewriter](https://github.com/EdFallinOnGitHub/Rewriter)
 
@@ -94,10 +94,10 @@ _[Back to top](#choose-a-technology)_
 
 **JobWave** is a tool website that I use to track jobs I have looked at online.&nbsp;  It is one of many personal apps and tools I have written with native web technologies (HTML, CSS, and JavaScript).
 
-With JobWave, I can transfer and transform job listings from other sites, search for them among cached listings, sort and cache them, and copy them to the clipboard for use elsewhere.&nbsp;  JobWave only keeps things in the browser's local storage.
+With JobWave, I can transform job listings from other sites, search, sort, and cache them, and copy them to the clipboard with one click.&nbsp;  JobWave only keeps things in the browser's local storage.
 
-> The version here was written in a procedural style, with all code in one JS file.&nbsp;  That was an expedient to make the tool usable on short notice.&nbsp;  Now I'm refactoring it and putting it under test.&nbsp;  The tests are easy and fast to write because I use my declarative testing framework, [Risei](#risei).&nbsp;  Only a little of this overhaul is present here so far.
-> 
+> To make use of this tool on short notice, I first wrote JobWave in a procedural style in one JS file, as seen here.&nbsp;  Now I'm refactoring it and putting it under test using my own test framework, [Risei](#risei).&nbsp;  Only the beginnings of that overhaul are seen here.
+
 > I serve this page for myself from a Linux VM that I maintain in the cloud, using an **nginx** reverse proxy and a custom domain I set up with a DNS registrar.&nbsp;  It is one of several sites I host for myself this way, including the extended read-me site for Risei.
 
 _[Back to top](#choose-a-technology)_
