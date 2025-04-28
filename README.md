@@ -14,7 +14,7 @@ I've worked in other mixes of technologies, but the two categories here cover th
 
 - NodeJs / Web
 
-  - [Risei](#risei)
+  - NodeJs [Risei](#risei)
   - HTML, CSS, JS
     - [JobWave](#jobwave)
   - React [(coming soon)](#react)
@@ -100,7 +100,7 @@ _[Back to top](#choose-a-technology)_
 
 > The version here was written in a procedural style, with all code in one JS file.&nbsp;  That was an expedient to make the tool usable on short notice.&nbsp;  Now I'm refactoring it and putting it under test.&nbsp;  The tests are easy and fast to write because I use my declarative testing framework, [Risei](#risei).&nbsp;  Only a little of this overhaul is present here so far.
 > 
-> I serve this page for myself from a Linux VM that I maintain in the cloud, using an NGINX reverse proxy and a custom domain I set up with a DNS registrar.&nbsp;  It is one of several sites I host for myself this way, including the extended read-me site for Risei.
+> I serve this page for myself from a Linux VM that I maintain in the cloud, using an nginx reverse proxy and a custom domain I set up with a DNS registrar.&nbsp;  It is one of several sites I host for myself this way, including the extended read-me site for Risei.
 
 _[Back to top](#choose-a-technology)_
 
