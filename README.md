@@ -15,7 +15,8 @@ I've worked in other mixes of technologies, but these two categories cover the o
 - NodeJs / Web
 
   - [Risei](#risei)
-  - [Native web technologies (coming soon)](#native-web-technologies-html-css-js)
+  - [Native web technologies](#native-web-technologies-html-css-js)
+    - [JobWave](#jobwave)
   - [React (coming soon)](#react)
   - [Angular (coming soon)](#angular)
 
@@ -88,11 +89,35 @@ _[Back to top](#choose-a-technology)_
 
 ## Native Web Technologies (HTML, CSS, JS)
 
-### ___Coming soon!___
-
-I have written many personal apps and tools with native web technologies, but they aren't ready to link here yet.&nbsp;  They will appear here later.
+I have written many personal apps and tools with native web technologies.&nbsp;  For now, just one of them is listed here.
 
 _[Back to top](#choose-a-technology)_
+
+
+### JobWave
+
+**JobWave** is a tool website that I use to track jobs I have looked at online.&nbsp;  With it, I can transfer job listings from boards / websites, search for them among cached listings, sort and cache them, and copy them to the clipboard for long-term storage elsewhere.
+
+_[Back to top](#choose-a-technology)_
+
+- **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/JobWave](https://github.com/EdFallinOnGitHub/JobWave)
+
+> ### Screenshots
+> Here is the UI of Rewriter with a job listing transformed at the top (using the middle right-arrow button).&nbsp;  I can't claim the styling is gorgeous, but it's clear and distinguishes things clearly.
+>
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-ui-with-example.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-ui-with-example.png)
+>
+> And here is the kind of flash seen when a right-side button is clicked, which fades in about a quarter-second.&nbsp;  Colors vary.&nbsp;  In this case, I clicked the down arrow to copy the listing to _Sorted_.&nbsp;  I can claim this _is_ gorgeous.
+>
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-flash.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-flash.png)
+>
+> And here is the result when the job listing at the top has been found among the cached listings (after a flash).&nbsp;  You don't want to find a listing, so the result (and flash) are gold.&nbsp;  (The not-found flash is green because that's what you want.)&nbsp;  Again, this _is_ gorgeous.
+>
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-found.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-found.png)
+>
+> And if I want to make the browser window narrow, JobWave continues to look great because I made it using responsive design.
+>
+> ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design)
 
 
 
