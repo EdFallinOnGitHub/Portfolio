@@ -2,15 +2,15 @@
 
 Hi there, thanks for checking out my portfolio!&nbsp;  Please take a look here and click through to whatever looks interesting.
 
-I'm always happy to talk about what these projects are about and how they demonstrate my skills, drive, and interests.&nbsp;  I hope you like them!
+I'm always happy to talk about these projects and how they demonstrate my skills, drive, and interests.&nbsp;  I hope you like them!
 
-> All repositories here are portfolio-facing copies, rather than the originals.
+> All repositories here are portfolio-facing copies.&nbsp;  Their age varies greatly, up to about eight years.
 
 
 
 ## Choose a technology
 
-I've worked in other mixes of technologies, but these two categories cover the ones I've included here.
+I've worked in other mixes of technologies, but the two categories here cover the ones I've included in this portfolio.
 
 - NodeJs / Web
 
@@ -29,7 +29,7 @@ I've worked in other mixes of technologies, but these two categories cover the o
 
 ## Risei
 
-**Risei** is a declarative testing framework for JavaScript that is robust, rich in features, and is itself well-tested.&nbsp;  It's a published **npm** package with an extensive read-me and its own descriptive website.&nbsp;  Please check it out!
+**Risei** is a declarative testing framework for JavaScript that is robust, rich in features, and is itself well-tested.&nbsp;  It's a published **npm** package with an extensive read-me and its own descriptive website.&nbsp;  Check it out!
 
 - **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/risei](https://github.com/EdFallinOnGitHub/risei)
 
@@ -98,6 +98,8 @@ _[Back to top](#choose-a-technology)_
 
 **JobWave** is a tool website that I use to track jobs I have looked at online.&nbsp;  With it, I can transfer job listings from boards / websites, search for them among cached listings, sort and cache them, and copy them to the clipboard for long-term storage elsewhere.
 
+> The version here is written in a procedural style, with all code in one JS file.&nbsp;  That was an expedient to make the tool usable on short notice.&nbsp;  Now I'm refactoring it and putting it under test &mdash; not yet included here.
+
 _[Back to top](#choose-a-technology)_
 
 - **Repo:**&nbsp;  [https://github.com/EdFallinOnGitHub/JobWave](https://github.com/EdFallinOnGitHub/JobWave)
@@ -107,15 +109,15 @@ _[Back to top](#choose-a-technology)_
 >
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-ui-with-example.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-ui-with-example.png)
 >
-> And here is the kind of flash seen when a right-side button is clicked, which fades in about a quarter-second.&nbsp;  Colors vary.&nbsp;  In this case, I clicked the down arrow to copy the listing to _Sorted_.&nbsp;  I can claim this _is_ gorgeous.
+> And here an example of the flashes seen when any right-side button is clicked.&nbsp;  The flash fades in about a quarter-second.&nbsp;  Colors vary.&nbsp;  In this case, I clicked the down arrow in _Rearranger_.&nbsp;  I can claim this _is_ gorgeous.
 >
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-flash.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-flash.png)
 >
-> And here is the result when the job listing at the top has been found among the cached listings (after a flash).&nbsp;  You don't want to find a listing, so the result (and flash) are gold.&nbsp;  (The not-found flash is green because that's what you want.)&nbsp;  Again, this _is_ gorgeous.
+> And here is the result when the job listing at the top has been found among the cached listings (after a flash).&nbsp;  You don't want to find a listing, so the result and flash are gold.&nbsp;  Again, this _is_ gorgeous.
 >
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-found.png](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-found.png)
 >
-> And if I want to make the browser window narrow, JobWave continues to look great because I made it using responsive design.
+> And if I want to make the browser window narrow, JobWave continues to be usable and look as good because I made it using responsive design.
 >
 > ![https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design](https://github.com/EdFallinOnGitHub/Portfolio/blob/main/images/JobWave-responsive-design)
 
