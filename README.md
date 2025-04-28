@@ -127,7 +127,7 @@ _[Back to top](#choose-a-technology)_
 
 ### ___Coming soon!___
 
-I worked for a while with React, and created some pretty nice components and features using them, but they were proprietary code.&nbsp;  As a result, I don't have a repo of them, or even screenshots.&nbsp;  Personal projects demonstrating my React skills will appear here later.
+I worked for a while with React, and created some pretty nice components and features that used them, but they were proprietary code.&nbsp;  As a result, I don't have a repo of them, or even screenshots.&nbsp;  Personal projects demonstrating my React skills will appear here later.
 
 _[Back to top](#choose-a-technology)_
 
